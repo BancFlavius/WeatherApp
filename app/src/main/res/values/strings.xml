@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <!-- Strings related to login -->
+    <string name="prompt_name">Name</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="buffer_weather">Weather</string>
+    <string name="buffer_my_places">My Places</string>
+    <string name="buffer_maps">Maps</string>
+    <string name="buffer_my_profile">My Profile</string>
+    <string name="buffer_logout">Logout</string>
+    <string name="city_name">City name</string>
+    <string name="current_temperature">20 C</string>
+    <string name="prompt_min_temperature">Min temp</string>
+    <string name="prompt_max_temperature">Max temp</string>
+    <string name="action_switch_to_celsius">Switch to: C</string>
+    <string name="action_switch_to_fahrenheit">Switch to: F</string>
+    <string name="prompt_third_day_temp">Third day temp</string>
+    <string name="prompt_tomorrow_temperature">Tomorrow Temp</string>
+    <string name="max_temperature">0</string>
+    <string name="min__temperature">0</string>
+    <string name="action_login">Log in</string>
+    <string name="action_register">Register</string>
+    <string name="action_birthday">Birthday</string>
+    <string name="action_search">Search</string>
+    <string name="prompt_search_for_a_location">Search for a location</string>
+    <string name="prompt_example_city">Example: Bucharest</string>
+    <string name="prompt_description">Description</string>
+    <string name="button_sort">Sort</string>
+    <string name="prompt_fromAtoZ">Sort from A to Z</string>
+    <string name="prompt_fromZtoA">Sort from Z to A</string>
+    <string name="prompt_lowest_temperature">Sort from lowest temperature</string>
+    <string name="prompt_highest_temperature">Sort from highest temperature</string>
+    <string name="coming_soon">Coming soon</string>
+    <string name="app_logo">Application logo</string>
+    <string name="img_add_to_favorites">add to favorites</string>
+
+</resources>

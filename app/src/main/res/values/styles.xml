@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="textViewStyle" parent="Theme.AppCompat.Light">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="editTextStyle" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:textColorHint">@color/editTextColor</item>
+        <item name="android:textColor">@color/editTextColor</item>
+        <item name="android:background">@drawable/et_border</item>
+    </style>
+        
+</resources>
